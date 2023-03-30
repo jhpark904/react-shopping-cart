@@ -7,7 +7,7 @@ React application to simulate simple shopping cart functionalities
 ## How to Run
 
 1. run ```npm start``` in ```shopping-cart\cart-db\shopping-cart-db``` to start Strapi
-2. run http-server to start the react app
+2. run ```http-server``` to start the react app
 
 ## Scope of Funtionality
 
